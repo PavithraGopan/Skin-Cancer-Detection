@@ -19,5 +19,8 @@ Here we have done the detection of skin cancer through deep learning using CNN c
 The current problem that always happened is the peoples do not know several things about their skin care. The peoples only know their problem from their naked eye but the actually happen in their skin is more serious from that. Doctor's diagnosis is reliable, but this procedure takes lots of time, efforts. Accurate skin lesion segmentation in Melanoma Dermoscopy images is an important and difficult task. These routines can be automated. It could save lots of doctor's time and could help to diagnose more accurate. Besides using computerized means there are good opportunity to store information with diagnostic information in order to use it for further investigations or creation of new methods of diagnosis. It is only a few minutes that the patients can wait without doing anything until images and other patient's information are all inputted at the store and the analysis results are outputted. So in order to make the medical world better and convenient we can use the new world technologies.
 
 ## SCREENSHOTS
+![image](https://github.com/PavithraGopan/Skin-Cancer-Detection/assets/142516819/b8b3a503-d3e2-4406-aa5c-8849bd88837e)
+![image](https://github.com/PavithraGopan/Skin-Cancer-Detection/assets/142516819/406b92ab-ee5f-48f0-9de2-bbd8f4b32770)
+![image](https://github.com/PavithraGopan/Skin-Cancer-Detection/assets/142516819/fabdeaba-e62e-4e97-99cb-38d1591902af)
 
 
