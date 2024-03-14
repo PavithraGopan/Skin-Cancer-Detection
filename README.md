@@ -9,6 +9,8 @@ Skin cancer is one of the most active types of cancer in the present decade. As 
 Therefore, the critical factor in skin cancer treatment is early diagnosis. Doctors ordinarily use the biopsy method for skin cancer detection. This procedure removes a sample from a suspected skin lesion for medical examination to determine whether it is cancerous or not. This process is painful, slow, and time-consuming. Computer-based technology provides a comfortable, less expensive, and speedy diagnosis of skin cancer symptoms. In order to examine the skin cancer symptoms, whether they represent melanoma or nonmelanoma, multiple techniques, noninvasive in nature, are proposed. The general procedure followed in skin cancer detection is acquiring the image, preprocessing, segmenting the acquired preprocessed image, extracting the desired feature, and classifying it.
 
 ## SYSTEM DESIGN
+![image](https://github.com/PavithraGopan/Skin-Cancer-Detection/assets/142516819/0e18da33-15e2-4243-9444-71c89efa1aad)
+
 
 ## DISCUSSION
 Here we have done the detection of skin cancer through deep learning using CNN concept. In this we give the dataset that is our skin images using CNN technique the system will identify using the cancerous skin images from different views and predict whether the skin is cancerous or not. And also we used the data mining algorithm-logistic regression to get the final graphical result model accuracy and model loss.
